@@ -1,0 +1,23 @@
+{
+	"save_log": false,
+	"textcommand_prefix": "!",
+	"bot": {
+		"token": "",
+		"application_id": "",
+		"activity": {
+			"enabled": true,
+			"type": "playing",
+			"message": "/help"
+		}
+	},
+	"guilds": [""],
+	"staff": {
+        "blacklisted": [""],
+        "owner": "",
+		"autoDetectOwner": true
+	},
+	"tag_on_error": {
+		"enabled": false,
+		"log_channel": []
+	}
+}

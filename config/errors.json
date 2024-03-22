@@ -1,0 +1,9 @@
+{
+    "not_found": "This command not found!",
+    "blacklisted": "Your are not allow to use any command!",
+    "notify":{
+        "title": ":no_entry: Error!!",
+        "message": ""
+    },
+	"no_tag": "**Hey {name}! Tags are disabled here. Please refrain from using them again!**"
+}

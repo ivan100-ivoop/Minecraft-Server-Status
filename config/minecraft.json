@@ -1,0 +1,21 @@
+{
+	"updateTime": 2500,
+	"log_channel": "",
+	"web": "",
+	"list": [
+		{
+			"ip": "",
+			"port": "",
+			"address": "",
+			"title": "",
+			"support": "1.8 - 1.20.4"
+		},
+		{
+			"ip": "",
+			"port": "",
+			"address": "",
+			"title": "",
+			"support": "1.8 - 1.20.4"
+		}
+	]
+}
