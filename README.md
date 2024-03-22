@@ -44,6 +44,7 @@ Simple Discord Bot for Minecraft live status
 ## Useful Links
 
 [MogoDB](https://cloud.mongodb.com/)
+
 [Easy-Discord-Bot](https://github.com/ivan100-ivoop/Easy-Discord-Bot)
 
 ## Screenshots
