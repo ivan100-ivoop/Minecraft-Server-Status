@@ -1,9 +1,8 @@
 
 # Minecraft-Status
 
-Simple Discord Bot for puffer panel
+Simple Discord Bot for Minecraft live status
 
-All eggs Environment is in docker not to Standard
 ## Deployment
 
 |      info         |         command         |
