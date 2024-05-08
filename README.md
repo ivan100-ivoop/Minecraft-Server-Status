@@ -23,7 +23,7 @@ Simple Discord Bot for Minecraft live status
 		{
 			"ip": "", #server IP
 			"port": "", #server PORT
-			"address": "", #server address to be show in embet of users
+			"address": "", #server address to be show in embed of users
 			"title": "", #name of server
 			"support": "1.8 - 1.20.4" #support version 
 		},#example of next server
