@@ -12,6 +12,32 @@ Simple Discord Bot for Minecraft live status
 |        run        |       npm run start     |
 |        run        |           node .        |
 
+## /config/minecraft.json
+
+```json
+{
+	"updateTime": 2500, # update time to ping 
+	"log_channel": "", #status channel ID
+	"web": "", #link to web site
+	"list": [ # server's list
+		{
+			"ip": "", #server IP
+			"port": "", #server PORT
+			"address": "", #server address to be show in embet of users
+			"title": "", #name of server
+			"support": "1.8 - 1.20.4" #support version 
+		},#example of next server
+		{
+			"ip": "",
+			"port": "",
+			"address": "",
+			"title": "",
+			"support": "1.8 - 1.20.4"
+		}
+	]
+}
+```
+
 ## /config/config.json
 ```json
 {
